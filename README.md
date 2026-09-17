@@ -74,9 +74,6 @@ The dashboard allows users to identify:
 - Commodity groups associated with higher inflation
 - Differences between rural, urban, and combined sectors
 
-## 📌 Portfolio Value
-
-This project demonstrates the ability to take a large economic dataset, prepare it for analysis, build interactive Excel visualizations, and communicate findings through a business-focused dashboard.
 
 **Domain:** Economics & Finance  
 **Tool:** Excel
