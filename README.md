@@ -27,7 +27,7 @@ An Excel-based analysis of Consumer Price Index (CPI) and inflation data across 
 
 ## 📁 Dataset
 
-The dataset contains approximately 300,000 records with fields including:
+The dataset contains approximately 175,000 records with fields including:
 
 - Date
 - State Name
